@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Excersise-Website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Summary
+
+This project is able to store inputted workouts into a SQL database. The database is holds user accounts which can be created within the website. The users can login with thier newly created account which gives them a token associated with thier login session. This allows them to look at thier previously created workouts, add new workouts, create new excersises, and manage thier accounts.
 
 ## Available Scripts
 
